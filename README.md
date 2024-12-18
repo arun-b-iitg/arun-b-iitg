@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arun-b-iitg
-- 👀 I’m interested in The National Institute Of Engineering, Mysore
+- 👀 I’m interested Artificial Intelligence and Data Science 
 - 🌱 I’m currently learning Python and C
 - 💞️ I’m looking to collaborate on Ai and Ml
 - 📫 Iyur.smilx@gmail.com, arun.b@op.iitg.ac.in 
